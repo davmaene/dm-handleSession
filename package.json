@@ -1,0 +1,23 @@
+{
+  "name": "dm-handlesession",
+  "version": "1.0.0",
+  "description": "Simple package of storing user session in navigator",
+  "main": "index.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/davmaene/dm-handleSession.git"
+  },
+  "keywords": [
+    "sessionStorage",
+    "localStorage"
+  ],
+  "author": "davmaene",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davmaene/dm-handleSession/issues"
+  },
+  "homepage": "https://github.com/davmaene/dm-handleSession#readme"
+}
